@@ -12,7 +12,7 @@ public class Test {
         underTest.push(7);
         underTest.push(8);
         underTest.push(9);
-        underTest.push(10);
+        underTest.push(11);
 
         assert(underTest.pop() == 10);
         assert(underTest.pop() == 9);
